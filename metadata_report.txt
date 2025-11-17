@@ -1,0 +1,11 @@
+🚧 ROAD DEFECT DATASET METADATA REPORT 🚧
+========================================
+
+📸 Total Frames:        885
+📍 Unique Locations:    3
+🔧 Total Defects:       1224
+🛣️ Defect Categories:   crack, edge line, lane divider, pothole
+📍 GPS Latitude Range:  19.090849 to 19092632.000000
+📍 GPS Longitude Range: 74.000000 to 74.766525
+🛠️ Labeling Tool:       CVAT
+🤖 Model Used:          YOLOv8
